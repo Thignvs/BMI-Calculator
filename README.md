@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Page](https://thignvs.github.io/BMI-Calculator/)
+- Live Site URL: [Live Page](https://thignvs.github.io/BMI-Calculator/).
 
 
 ### Built with
